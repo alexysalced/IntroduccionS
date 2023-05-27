@@ -23,7 +23,7 @@ Como vemos se utilizo una consulta en la cual se selecciono el municipio, la cau
 
 # DASHBOARD
 
-<iframe width="600" height="450" src="https://lookerstudio.google.com/s/lUHm63m_cOg" frameborder="0" style="border:0" allowfullscreen></iframe>
+<iframe width="100%" height="500" src="https://lookerstudio.google.com/embed/reporting/1bd347e6-e31b-4af2-ae51-19b583c267d7/page/783RD" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 # Enlaces importantes 
 
